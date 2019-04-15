@@ -1,0 +1,14 @@
+﻿已經開始建置於 2017/11/20 下午 09:19:54。
+     1>節點 2 (Build 目標) 上的專案 "D:\Users\User.CSCC-31572\Downloads\MeshExample\MeshExample\MeshExample.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"D:\Users\User.CSCC-31572\Downloads\MeshExample\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\User.CSCC-31572\Downloads\MeshExample\Debug\MeshExample.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Users\User.CSCC-31572\Downloads\MeshExample\lib" glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\User.CSCC-31572\Downloads\MeshExample\Debug\MeshExample.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\User.CSCC-31572\Downloads\MeshExample\Debug\MeshExample.lib" /MACHINE:X86 /SAFESEH:NO Debug\main.obj
+         Debug\mesh.obj
+         MeshExample.vcxproj -> D:\Users\User.CSCC-31572\Downloads\MeshExample\Debug\MeshExample.exe
+     1>專案 "D:\Users\User.CSCC-31572\Downloads\MeshExample\MeshExample\MeshExample.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.96

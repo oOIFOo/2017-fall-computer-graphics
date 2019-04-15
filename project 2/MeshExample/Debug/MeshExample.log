@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\user\desktop\oifo\ggc\0416313\include\freeimage.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\user\desktop\oifo\ggc\0416313\meshexample\main.cpp(20): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+c:\users\user\desktop\oifo\ggc\0416313\meshexample\main.cpp(204): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\oifo\ggc\0416313\meshexample\main.cpp(216): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\oifo\ggc\0416313\meshexample\main.cpp(231): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\oifo\ggc\0416313\meshexample\main.cpp(247): warning C4018: '<': signed/unsigned 不相符
+  MeshExample.vcxproj -> C:\Users\User\Desktop\OIFO\ggc\0416313\Debug\MeshExample.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\user\desktop\0416313\include\freeimage.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\user\desktop\0416313\meshexample\main.cpp(20): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+  MeshExample.vcxproj -> C:\Users\User\Desktop\0416313\Debug\MeshExample.exe
